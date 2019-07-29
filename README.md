@@ -1,4 +1,5 @@
 # Simple_easing_function_group
+パラメータひとつだけ
 
 
 
